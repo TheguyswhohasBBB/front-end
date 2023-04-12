@@ -5,7 +5,7 @@
     height: 750px;
 }
 .logo{
-    padding: 0 400px;
+    padding: 0 21%;
 }
 .hot{
     text-align: center;
@@ -15,21 +15,20 @@
     font-size: 50px;
     color: aliceblue;
     border-radius: 5px;
-    line-height: 74px;
-    margin-top: 80px;
+    line-height: 150%;
+    margin-top: 8%;
 }
 .logoandhot{
     display: flex;
 }
 .wrapper{
     border: 7px solid #CED086;
-    height: 500px;
+    height: 65%;
     float: left;
-    padding: 0 400px;
     background-color:#678B37;
-    padding: 0px 30px;
-    margin-left:400px;
-    margin-right: 1100px;
+    padding: 0px 2%;
+    margin-left:21%;
+    margin-right: 100%;
     text-align: center;
 }
 .form-heading{
@@ -48,7 +47,7 @@
     border: 2px solid #678B37;
     border-top: 2px solid #4b6c1e ;
     border-bottom: 1px solid aliceblue;
-    margin: 10px 0;
+    margin: 3% 0;
 }
 .t1::placeholder{
     color: white;
@@ -62,32 +61,23 @@
     font-size:20px;
     border: 0;
 }
-
-
-
-
-
-
-
-
-
 .menu2{
     width: 100%;
     height: 750px;
 }
 .head1{
     display: flex;
-    margin: 0 400px;
+    margin: 0 21%;
 }
 .anh1{
     float:left;
-    margin-top: 15px;
+    margin-top: 4%;
     border-radius: 10px;
     border: 2px dotted #2D8C15;
 }
 .chu1{
-    padding-left: 80px;
-    
+    padding-left: 8%;
+    padding-bottom: 8%;
 
 }
 .chu1 p{
@@ -99,14 +89,12 @@
     text-align: center;
 }
 .anh2{
-    margin-top: 15px;
     float: right;
     border-radius: 10px;
     border: 2px dotted #2D8C15;
 }
 .chu2{
-    float: left;
-    padding-right: 70px;
+    padding-right: 6%;
 }
 .chu2 p{
     font-size: 20px;
@@ -116,40 +104,26 @@
     color: #2D8C15;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .menu3{
     background-color: #81AF53;
     width: 100%;
-    height: 400px;
+    height: 260px;
 }
 .menu3 h2{
-    
     color: aliceblue;
     border-bottom: 2px solid bisque;
+    padding: 0;
 }
 .menu3 p{
     color: aliceblue;
     font-size: 20px;
 }
 .tach{
-    padding: 15px;
+    padding: 2%;
 }
 .head3{
-    margin-left: 350px;
-    margin-right: 380px;
+    margin-left: 20%;
+    margin-right: 20%;
     display: flex;
 }
 
@@ -174,11 +148,9 @@
 }
 
     
-
-
 .tach4{
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 .menu4 .t3{
     padding: 7px;
