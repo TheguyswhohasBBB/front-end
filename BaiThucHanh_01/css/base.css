@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+}
+.menu{
+    flex-grow: 1;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    padding-right: 300px;
+}
+.menu ul li{
+    padding: 0px 20px;
+}
+.anhbanner{
+    width: 100%;
+}
+header{
+    padding: 0px 350px;
+}
+.house{
+    display: flex;
+    justify-content: center;
+
+}
+.house1,.house2,.house3,.house4{
+    position: relative;
+}
+.vanphong, .bietthu, .canho, .nhapho{
+    font-size: 20px;
+    position: absolute;
+    top: 120px;
+    left: 70px;
+}
+.congty1,.congty2,.congty3{
+    position: relative;
+}
+.nhamay,.showroom,.gioithieu{
+    position: absolute;
+    top: 220px;
+    left: 160px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.abc{
+    font-size: 30px;
+    padding: 40px 0px;
+}
+.congty{
+    display: flex;
+    justify-content: center;
+    padding-bottom:40px ;
+}
+.write{
+    background-color: #FFF206;
+}
+.write .write1{
+    display: flex;
+
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    
+}
+.write1 li{
+    margin-left: 120px;
+    padding-right: 100px;
+}
